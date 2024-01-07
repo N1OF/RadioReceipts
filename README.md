@@ -7,6 +7,10 @@ Task Manager or Cron on Linux to automatically run once a day via a Batch file o
 This program will pull Band Conditions from HamQSL's Solar XML file, Solar Weather Predictions from NOAA Space Weather Prediction Center,
 and Satellite passes from N2YO's API.
 
+DEPENDENCIES
+
+This Python script uses the requests, xml.etree.ElementTree, datetime, and tabulate modules. Ensure you have those installed before running this.
+
 CONFIGURATION
 
 Open the radioprint.py script, and go to "def calculate_iss_passes". You will need to edit the URL to include relevant information for use with N2YO's 
