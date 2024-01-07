@@ -1,0 +1,51 @@
+Amateur Radio Conditions for 2024-01-07 03:50 UTC
+****************************************
+Calculated Conditions:
+Band & Time      Condition
+80m-40m (day)    Poor
+30m-20m (day)    Fair
+17m-15m (day)    Good
+12m-10m (day)    Good
+80m-40m (night)  Good
+30m-20m (night)  Good
+17m-15m (night)  Good
+12m-10m (night)  Poor
+****************************************
+Solar Weather Predictions:
+:Product: Advisory Outlook advisory-outlook.txt
+:Issued: 2024 Jan 01 0200 UTC
+#
+# Prepared by the Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov
+#-------------------------------------------------------------------------
+Official Space Weather Advisory issued by NOAA Space Weather Prediction Center
+Boulder, Colorado, USA
+
+SPACE WEATHER ADVISORY OUTLOOK #24-1
+2023 December 31 at 6:55 p.m. MST (2024 January 1 0155 UTC)
+
+**** SPACE WEATHER OUTLOOK ****
+
+Summary For December 25-31
+
+R1 (Minor) and R3 (Strong) solar radiation storms were observed on 31 Dec.
+
+No additional significant space weather was observed.
+
+Outlook For January 1-7
+
+R1-R2/Minor-Moderate radiation storms are expected during the period. A chance for R3-Strong solar radiation storms is expected during the period.
+
+There is a chance for S1/Minor solar radiation storms on 01-04 Jan.
+
+No additional significant space weather is expected.
+
+****************************************
+ISS Passes (Table Format):
+Start UTC            Max El         End UTC
+2024-01-07 04:46:40  31.23 degrees  2024-01-07 04:57:05
+2024-01-07 06:24:45  14.08 degrees  2024-01-07 06:34:00
+2024-01-07 08:02:15  17.14 degrees  2024-01-07 08:12:00
+2024-01-07 09:39:00  60.72 degrees  2024-01-07 09:49:45
+2024-01-07 11:16:05  15.58 degrees  2024-01-07 11:25:25
+2024-01-08 02:21:50  20.22 degrees  2024-01-08 02:31:35
